@@ -7,9 +7,6 @@
 		"128": "sn_helper_icon.png",
 		"48": "sn_helper_icon_small.png"
 	},
-	"permissions": [
-		"activeTab"
-	],
 	"content_scripts": [
 		{
 			"_sn_type": "San Diego",
